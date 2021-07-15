@@ -32,32 +32,57 @@
 			<input type='radio' name='mood', value='Bem'>Bem
 			<input type='radio' name='mood', value='Muito bem'>Muito bem
 
-				<p>Que emoções estão presentes?</p>
+			<p>Que emoções estão presentes?</p>
 				
-			<table>				
+			<table id='emotion_table'>				
 				
 				<tr>
 					<td><label for=emotion1>Happy</label></td>
-					<td><input type='ckeckbox' id='emotion1', name='emotion1'></td>
-				</tr>
-				<tr>
+					<td><input type='checkbox' id='emotion1', name='emotion1'></td>
 					<td><label for=emotion2>Sad</label></td>
-					<td><input type='ckeckbox' id='emotion2', name='emotion2' value='Sad'></td>
 				</tr>
 				<tr>
-				<td><label for=emotion2>Angry</label></td>
-				<td><input type='ckeckbox' id='emotion3', name='emotion3' value='Angry'></td>
+					
+					<td><input type='checkbox' id='emotion2', name='emotion2' value='Sad'></td>
+					<td><label for=emotion2>Angry</label></td>
+					<td><input type='checkbox' id='emotion3', name='emotion3' value='Angry'></td>
 				</tr>
 				<tr>
-				<td><label for=emotion2>Calm</label></td>
-				<td><input type='ckeckbox' id='emotion4', name='emotion4' value='Calm'></td>
+					<td><label for=emotion2>Calm</label></td>
+					<td><input type='checkbox' id='emotion4', name='emotion4' value='Calm'></td>
 				</tr>
 			
 			</table>			
 			
+			<table id='activity_table'>				
+				
+				<tr>
+					<td><label for=activity1>Happy</label></td>
+					<td><input type='checkbox' id='emotion1', name='emotion1'></td>
+					<td><label for=emotion2>Sad</label></td>
+				</tr>
+				<tr>
+					
+					<td><input type='checkbox' id='emotion2', name='emotion2' value='Sad'></td>
+					<td><label for=emotion2>Angry</label></td>
+					<td><input type='checkbox' id='emotion3', name='emotion3' value='Angry'></td>
+				</tr>
+				<tr>
+					<td><label for=emotion2>Calm</label></td>
+					<td><input type='checkbox' id='emotion4', name='emotion4' value='Calm'></td>
+				</tr>
+			
+			</table>			
+
+
+
+
 			<button type='button' id='submit_btn'>Submit</button>
 
 			<p id='submit_msg'></p>
+
+
+
 
 		</form>
 	
