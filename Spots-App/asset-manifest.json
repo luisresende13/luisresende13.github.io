@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Spots-App/static/css/main.26c0f7a7.css",
-    "main.js": "/Spots-App/static/js/main.ccba13e2.js",
+    "main.css": "/Spots-App/static/css/main.3a06848d.css",
+    "main.js": "/Spots-App/static/js/main.54f1df36.js",
     "static/js/787.82526db8.chunk.js": "/Spots-App/static/js/787.82526db8.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Spots-App/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Spots-App/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,12 +9,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Spots-App/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Spots-App/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Spots-App/index.html",
-    "main.26c0f7a7.css.map": "/Spots-App/static/css/main.26c0f7a7.css.map",
-    "main.ccba13e2.js.map": "/Spots-App/static/js/main.ccba13e2.js.map",
+    "main.3a06848d.css.map": "/Spots-App/static/css/main.3a06848d.css.map",
+    "main.54f1df36.js.map": "/Spots-App/static/js/main.54f1df36.js.map",
     "787.82526db8.chunk.js.map": "/Spots-App/static/js/787.82526db8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26c0f7a7.css",
-    "static/js/main.ccba13e2.js"
+    "static/css/main.3a06848d.css",
+    "static/js/main.54f1df36.js"
   ]
 }
