@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/Mood-Tracker/static/js/app.29327ce2.chunk.js",
-    "app.js.map": "/Mood-Tracker/static/js/app.29327ce2.chunk.js.map",
+    "app.js": "/Mood-Tracker/static/js/app.8ad5ebbd.chunk.js",
+    "app.js.map": "/Mood-Tracker/static/js/app.8ad5ebbd.chunk.js.map",
     "runtime~app.js": "/Mood-Tracker/static/js/runtime~app.25118aa1.js",
     "runtime~app.js.map": "/Mood-Tracker/static/js/runtime~app.25118aa1.js.map",
-    "static/js/2.6c0bd369.chunk.js": "/Mood-Tracker/static/js/2.6c0bd369.chunk.js",
-    "static/js/2.6c0bd369.chunk.js.map": "/Mood-Tracker/static/js/2.6c0bd369.chunk.js.map",
+    "static/js/2.86aa7c47.chunk.js": "/Mood-Tracker/static/js/2.86aa7c47.chunk.js",
+    "static/js/2.86aa7c47.chunk.js.map": "/Mood-Tracker/static/js/2.86aa7c47.chunk.js.map",
     "fonts/MaterialCommunityIcons.ttf": "/Mood-Tracker/./fonts/MaterialCommunityIcons.ttf",
     "favicon-16.png": "/Mood-Tracker/favicon-16.png",
     "favicon-32.png": "/Mood-Tracker/favicon-32.png",
@@ -13,12 +13,12 @@
     "index.html": "/Mood-Tracker/index.html",
     "manifest.json": "/Mood-Tracker/manifest.json",
     "serve.json": "/Mood-Tracker/serve.json",
-    "static/js/2.6c0bd369.chunk.js.LICENSE.txt": "/Mood-Tracker/static/js/2.6c0bd369.chunk.js.LICENSE.txt",
+    "static/js/2.86aa7c47.chunk.js.LICENSE.txt": "/Mood-Tracker/static/js/2.86aa7c47.chunk.js.LICENSE.txt",
     "static/media/wallpaper.png": "/Mood-Tracker/static/media/wallpaper.219bc3cc.png"
   },
   "entrypoints": [
     "static/js/runtime~app.25118aa1.js",
-    "static/js/2.6c0bd369.chunk.js",
-    "static/js/app.29327ce2.chunk.js"
+    "static/js/2.86aa7c47.chunk.js",
+    "static/js/app.8ad5ebbd.chunk.js"
   ]
 }
