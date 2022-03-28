@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/Mood-Tracker/static/js/app.183fa853.chunk.js",
-    "app.js.map": "/Mood-Tracker/static/js/app.183fa853.chunk.js.map",
+    "app.js": "/Mood-Tracker/static/js/app.656800c4.chunk.js",
+    "app.js.map": "/Mood-Tracker/static/js/app.656800c4.chunk.js.map",
     "runtime~app.js": "/Mood-Tracker/static/js/runtime~app.25118aa1.js",
     "runtime~app.js.map": "/Mood-Tracker/static/js/runtime~app.25118aa1.js.map",
     "static/js/2.9cc16333.chunk.js": "/Mood-Tracker/static/js/2.9cc16333.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime~app.25118aa1.js",
     "static/js/2.9cc16333.chunk.js",
-    "static/js/app.183fa853.chunk.js"
+    "static/js/app.656800c4.chunk.js"
   ]
 }
